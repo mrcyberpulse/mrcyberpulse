@@ -5,7 +5,7 @@
 
 **MR Cyber Pulse** is an India-based, self-taught cybersecurity collective led by **Harsh Saini**. We build practical security tools,  and GRC/compliance resources to make complex security concepts accessible to small businesses and everyday users.
 
----
+------------------------------------------------------------------------------------------------------------------
 
 ## 🎯 Focus Areas
 
@@ -14,13 +14,13 @@
 - **OSINT & IoT Security**
 - **Penetration Testing & Vulnerability Research**
 
----
+---------------------------------------------------------------------------------------------------------------
 
 ## 📦 Featured Projects
 
 - **[ArtifactX](https://github.com/mrcyberpulse/artifactx):** Open-source SBOM Intelligence and GRC compliance engine.
 
----
+---------------------------------------------------------------------------------------------------------------------
 ## 💼 Services Available
 
 We provide professional consulting and enterprise solutions. 
@@ -36,13 +36,13 @@ We provide professional consulting and enterprise solutions.
 - **GitHub:** [mrcyberharsh](https://github.com/mrcyberharsh)
 - **Email:** manager.prachi@zohomail.in
 
----
+----------------------------------------------------------------------------------------------------------------------
 
 ## 📜 License
 
 All projects under **MR CYBER PULSE** are open-source unless otherwise specified. See individual repositories for specific licenses.
 
----
+-----------------------------------------------------------------------------------------------------------------------
 
 ## ⚠️ Disclaimer & Copyright
 
